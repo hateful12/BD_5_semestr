@@ -15,14 +15,14 @@ Database lab1, FAM
 
 <h4 align="center">Концептуальна модель учбової предметної області "Школа"</h4>
 <p align="center">
-<img src=src/sсhema.png/>
+<img src=src/sсhema.jpg/>
 </p>
 <h4 align="center">Опис структури БД “Школа”</h4>
 
 <p align="center">
-<img src=src/info.png/>
+<img src=src/info.jpg/>
 </p>
 <h4 align="center">Структура БД “Школа”</h4>
 <p align="center">
-<img src=scr/tables.png/>
+<img src=scr/tables.jpg/>
 </p>
