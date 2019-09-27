@@ -15,7 +15,7 @@ Database lab1, FAM
 
 <h4 align="center">Концептуальна модель учбової предметної області "Школа"</h4>
 <p align="center">
-<img src=src/sсhema.jpg/>
+<img src=src/schema.jpg/>
 </p>
 <h4 align="center">Опис структури БД “Школа”</h4>
 
