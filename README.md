@@ -24,5 +24,5 @@ Database lab1, FAM
 </p>
 <h4 align="center">Структура БД “Школа”</h4>
 <p align="center">
-<img src=scr/tables.jpg/>
+<img src=src/tables.jpg/>
 </p>
